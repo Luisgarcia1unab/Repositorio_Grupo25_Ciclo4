@@ -3,7 +3,6 @@ package com.unab.banca.Service;
 import com.unab.banca.Models.Cliente;
 import com.unab.banca.Dao.ClienteDao;
 import java.util.List;
-
 import org.springframework.beans.factory.annotation.Autowired; 
 import org.springframework.stereotype.Service; 
 import org.springframework.transaction.annotation.Transactional;
